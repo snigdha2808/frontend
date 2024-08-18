@@ -1,6 +1,6 @@
 Deployed Link --
 
-https://github.com/snigdha2808/frontend/settings
+https://snigdha2808.github.io/frontend/
 
 
 # Getting Started with Create React App
